@@ -1,0 +1,21 @@
+:root {
+    --Rojo: #FA0606;
+    --Gris-claro: #D9D9D9;
+    --verde: #49BA2D;
+    --negro100: #000000;
+    --rojo-promocion: #DA3636;
+    --negro80: #1D1D1D;
+    --blanco-letra: #FFFFFF;
+    --amarillo-letra: #FFF850;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+    font-family: 'Open Sans', sans-serif;
+}
